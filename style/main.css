@@ -460,7 +460,8 @@ hr {
 
 .game-intro {
   float: left;
-  line-height: 42px;
+  margin-top: 10px;
+  line-height: 20px;
   margin-bottom: 0; }
 
 .restart-button {
